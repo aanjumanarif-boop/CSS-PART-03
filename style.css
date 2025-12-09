@@ -1,0 +1,99 @@
+.Master-div{
+width: 60%;
+height: 80%;
+border: 3px solid;
+}
+/* header section style start 
+====================================== */
+.welcome{
+   color: darkmagenta; 
+}
+/* header section style end 
+============================== */
+
+/* main section style start 
+=================================== */
+  .main-div-01{
+   display: flex;
+
+  }
+  .first-div{
+   width: 200px;
+   height: 135px;
+   border: 2px solid crimson;
+   margin-left: 15px;
+  }
+
+  .second-div{
+   width: 200px;
+   height: 135px;
+   border: 2px solid crimson;
+   margin-left: 15px;
+
+  }
+  .third-div{
+   width: 200px;
+   height: 135px;
+   border: 2px solid crimson;
+   margin-left: 15px;
+   margin-right: 15px;
+  }
+  .project{
+   margin: 4px;
+   color: rgb(177, 17, 97);
+  }
+  .paragraph{
+   margin: 6px;
+   color: rgb(28, 212, 37);
+  }
+
+/* main section style end 
+================================*/
+
+  /* footer section style start 
+  ============================== */
+
+  .main-div-02{
+   display: flex;
+
+  }
+  .forth-div{
+   width: 200px;
+   height: 55px;
+   border: 2px solid rgb(18, 6, 148);
+   margin-left: 15px;
+   margin-top: 23px;
+   margin-bottom: 15px;
+  }
+  .fifth-div{
+    width: 200px;
+   height: 55px;
+   border: 2px solid rgb(16, 7, 81);
+   margin-left: 15px;
+   margin-top: 23px;
+   margin-bottom: 15px;
+  }
+  .six-div{
+   width: 200px;
+   height: 55px;
+   border: 2px solid  rgb(16, 7, 81);
+   margin-left: 15px;
+   margin-top: 23px;
+   margin-bottom: 15px;
+   margin-right: 15px;
+  }
+   a{
+   color: rgb(6, 175, 65);
+   gap:2px;
+   margin-left: 5px;
+   margin-bottom: 8px;
+   }
+   .paragraph-02{
+    margin: 6px;
+    font-size: x-small;
+    margin-top: 2px;
+    color: rgb(121, 25, 190);
+   }
+
+  /* footer section style end 
+  ============================= */
